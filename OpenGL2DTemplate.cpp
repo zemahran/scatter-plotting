@@ -8,8 +8,6 @@ using namespace std;
 
 void scatterplot(int arr[100][6]);
 
-void dimensionalStacking(int arr[100][6]);
-
 void Display() {
 	glClear(GL_COLOR_BUFFER_BIT);
 	glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
